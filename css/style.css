@@ -1,0 +1,30 @@
+
+.container{
+    margin: 0 auto;
+    border: 2px solid rgb(247, 125, 25);
+    width: 610px;
+    background-color: rgb(247, 125, 25);
+}
+
+nav{
+    padding: 1rem;
+    background-color:var(--gray);
+}
+
+
+.nav-link{
+    text-decoration:underline;
+    color: white;
+    font-weight: bold;
+}
+
+article{
+    padding: 0.8rem;
+    background-color:black;
+    color: white;
+}
+
+footer{
+    text-align: center;
+    color: white;
+}
